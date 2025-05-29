@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/divyansh/static/css/main.066d7af3.css",
+    "main.js": "/divyansh/static/js/main.47ec34e6.js",
+    "static/js/453.c82e8962.chunk.js": "/divyansh/static/js/453.c82e8962.chunk.js",
+    "index.html": "/divyansh/index.html",
+    "main.066d7af3.css.map": "/divyansh/static/css/main.066d7af3.css.map",
+    "main.47ec34e6.js.map": "/divyansh/static/js/main.47ec34e6.js.map",
+    "453.c82e8962.chunk.js.map": "/divyansh/static/js/453.c82e8962.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.066d7af3.css",
+    "static/js/main.47ec34e6.js"
+  ]
+}
